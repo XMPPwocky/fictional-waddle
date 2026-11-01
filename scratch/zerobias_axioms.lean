@@ -1,0 +1,11 @@
+import BoundaryTheorem.ZeroBias
+#print axioms ZeroBias.integral_mul_eq_integral_deriv_mul_kappa
+#print axioms ZeroBias.integral_mul_eq_var_mul_integral_deriv_zeroBias
+#print axioms ZeroBias.isProbabilityMeasure_zeroBias
+#print axioms ZeroBias.kappa_gaussianReal
+#print axioms ZeroBias.zeroBias_gaussianReal
+#print axioms ZeroBias.stein_gaussianReal
+#print axioms ZeroBias.integral_fst_mul_prod_eq_var_mul_integral_zeroBias_prod
+#print axioms ZeroBias.direct_design_update
+#print axioms ZeroBias.gaussianReal_of_zeroBias_eq
+#print axioms ZeroBias.integrable_update_of_integrable_noise

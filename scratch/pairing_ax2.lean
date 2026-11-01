@@ -1,0 +1,2 @@
+import BoundaryTheorem.Pairing
+#print axioms BoundaryTheorem.Pairing.FinProb.cov_resid_eq_cov_zeta_of_regressor_meas

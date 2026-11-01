@@ -1,0 +1,37 @@
+import BoundaryTheorem.Factored
+open BoundaryTheorem.Factored
+#print axioms determines_history
+#print axioms history_subset_of_determines
+#print axioms determines_iff
+#print axioms history_eq_of_isLeast
+#print axioms history_congr
+#print axioms FFS.gdetermines_iff
+#print axioms FFS.isHistory_ghistory
+#print axioms FFS.isHistory_iff
+#print axioms prodFFS
+#print axioms prodFFS_gdetermines_iff
+#print axioms prodFFS_ghistory
+#print axioms history_proj
+#print axioms afterDice_iff_before
+#print axioms mass_eq
+#print axioms indep_of_not_mem_history
+#print axioms Q_eq_of_indep
+#print axioms exists_posWeights_not_indep
+#print axioms mem_history_iff_exists_dep
+#print axioms not_mem_history_iff_forall_indep
+#print axioms xorY_dependsOn
+#print axioms xorY_indep
+#print axioms hasFDerivAt_update_comp
+#print axioms mem_history_iff_partial_ne_zero
+#print axioms not_dependsOn_of_partial_eq_zero
+#print axioms freeze_linSlot
+#print axioms afterDice_linSlot_iff
+#print axioms bridge_linear_iff
+#print axioms credit_eq_zero_of_not_afterDice
+#print axioms credit_eq_zero_iff_of_afterDice
+#print axioms fderiv_freeze
+#print axioms isKantian_freeze_iff
+#print axioms conservative_freeze
+#print axioms kantianCredit_eq_zero_of_not_afterDice
+#print axioms afterDice_iff_exists_kantianCredit_ne_zero
+#print axioms kantianCredit_linSlot
